@@ -36,6 +36,4 @@ DAX – Data modeling & calculations
 If you’d like to collaborate or discuss my projects, feel free to reach out:
 📩 Email: kanu4495@gmail.com
 🌐 LinkedIn: https://www.linkedin.com/in/kanupriya04/
-📩 Email: yourname@outlook.com
 
-🌐 LinkedIn: [Your LinkedIn Profile Link]
